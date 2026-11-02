@@ -42,9 +42,9 @@ The first stream comprises room-level empirical monitoring spanning four consecu
 
 | | Question | Notebooks |
 |---|---|---|
-| **RQ1** | How do monitored indoor temperatures compare with the CIBSE TM59 criteria over the monitored cooling seasons? | Stage 2 (with the Stage 1 outdoor-record check) |
-| **RQ2** | Do machine-learning surrogates add predictive information beyond persistence and simple thermal baselines (a linear ARX model and a 1R1C grey-box model), under recursive forecasting and extreme heat, and does the prediction target matter? | Stages 4 and 5 |
-| **RQ3** | Can the physics model and the benchmarked surrogates support future-climate screening, and how far do dwelling- and room-level conclusions depend on model form and uncertainty? | Stages 3A, 3B, 5 and 6 |
+| **RQ1** | To be updated | Stage 2 (with the Stage 1 outdoor-record check) |
+| **RQ2** | To be updated | Stages 4 and 5 |
+| **RQ3** | To be updated | Stages 3A, 3B, 5 and 6 |
 
 [Back to top](#️-oasis-overheating-assessment-through-screening-level-intervention-scenarios)
 
